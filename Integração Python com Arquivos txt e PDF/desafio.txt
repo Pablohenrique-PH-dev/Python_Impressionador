@@ -1,0 +1,7 @@
+Resultado do desafio integração com txt e csv
+
+Total de alunos que vieram do orgânico foi 226.
+
+A melhor fonte de cadastros de alunos orgânico é o youtube com 155 inscrições
+
+Até a próxima.
